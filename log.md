@@ -774,3 +774,21 @@ Today's focus was on implementing offline capabilities for the Habit Tracker mob
 
 **Thoughts:**
 Deployment was a big milestone! The web version is live, and the mobile app is now in closed testing on the Play Store. Excited to gather feedback and continue improving the Habit Tracker experience!
+
+
+
+
+### Day 59 & 60 - January 16 & 17, 2026
+
+**Today's Progress:**
+- Designed weekly target feature by habit
+- Update planned background schedule and endpoint
+- Defined mobile service provider logic for calculating weekly progress and success rate
+- Defined user interface: progress bars, status, goal toggle
+- Notification rule drafted: alert when behind schedule
+
+**Thoughts:**
+Today's focus was on planning and designing the weekly target feature for the Habit Tracker mobile app.
+
+
+
