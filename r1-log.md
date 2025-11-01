@@ -6,3 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [October 30, Thursday, 2025].
 
 ### R1D1 
 Started a new project using Next.js and Tailwind CSS. Set up the initial project structure and created a simple homepage.
+
+### R1D2
+Built the global layout for the project with reusable components like Navbar, Footer, and Sidebar. Integrated responsive design using TailwindCSS and configured the color palette.
