@@ -15,6 +15,23 @@ Built the global layout for MediaKit with reusable components — Navbar, Footer
 Integrated responsive design using TailwindCSS and configured the color palette.
 
 **Thoughts:**  
-It feels great to see the app starting to take shape visually. Next.js and Tailwind make structuring and styling really efficient. Tomorrow I’ll start working on the Home Page hero section and feature grid.
+It feels great to see the app starting to take shape visually. Next.js and Tailwind make structuring and styling really efficient. Tomorrow I'll start working on the Home Page hero section and feature grid.
+
+**Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+
+### Day 2: November 2, 2025
+
+**Today's Progress:**  
+Made major progress on MediaKit's core tools — Subtitle Automation, Audio Editor, and Background Removal.
+Integrated features:
+- Subtitle Automation: upload → simulated transcription → SRT export  
+- Audio Editor: waveform via Wavesurfer.js, draggable regions, trimming, and MP3/WAV export  
+- Background Removal: BodyPix segmentation → transparent PNG output  
+
+Fixed navbar issues, optimized exports for GH Pages, and solved multiple hydration bugs.
+Project is now feature-complete for its MVP phase.
+
+**Thoughts:**  
+The foundation is solid — moving from prototype to polished tools now feels within reach. Excited to refine, test, and optimize performance next!
 
 **Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
