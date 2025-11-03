@@ -12,3 +12,6 @@ Built the global layout for the project with reusable components like Navbar, Fo
 
 ### R1D3
 Developed core features of the project including Subtitle Automation, Audio Editor, and Background Removal. Implemented file upload, transcription simulation, waveform visualization, and background removal functionalities.
+
+### R1D4
+Added a fully designed authentication UI (Sign In / Sign Up) with dedicated layouts for a clean, user-friendly experience. Included placeholders for social OAuth (Google, Facebook, etc.) to prepare for future integrations. Worked on client-side connections and dynamic imports for heavy libraries to improve performance and reduce bundle size.

@@ -35,3 +35,18 @@ Project is now feature-complete for its MVP phase.
 The foundation is solid — moving from prototype to polished tools now feels within reach. Excited to refine, test, and optimize performance next!
 
 **Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
+
+
+### Day 3: November 3, 2025
+
+**Today's Progress:**  
+Added a fully designed **authentication UI** (Sign In / Sign Up) with dedicated layouts for a clean, user-friendly experience.  
+Included placeholders for **social OAuth** (Google, Facebook, etc.) to prepare for future integrations.  
+Also worked on **client-side connections** and **dynamic imports** for heavy libraries to improve performance and reduce bundle size.  
+
+**Thoughts:**  
+It's starting to look and feel like a real app now!  
+Designing a smooth authentication experience makes everything come together visually and functionally.  
+Excited to integrate OAuth next and make sign-ins lightning fast.  
+
+**Link to work:** [MediaKit](https://mediakit.mohamed-bouzar.com)
