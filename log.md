@@ -105,3 +105,15 @@ Server-side processing opens the door for faster, more reliable, and scalable to
 - Implemented **authentication system** (sign-up, sign-in).  
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 8: November 9, 2025  
+
+**Today's Progress:**  
+No coding today - I caught a fever and took time to rest and recover.  
+
+**Thoughts:**  
+Sometimes the best way to move forward is to stop and rest.
+Tomorrow I'll be back to the challenge stronger than ever! 🚀 💪  
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
