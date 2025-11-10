@@ -117,3 +117,17 @@ Sometimes the best way to move forward is to stop and rest.
 Tomorrow I'll be back to the challenge stronger than ever! 🚀 💪  
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 9: November 10, 2025  
+
+**Today's Progress:**  
+- Learned more about **Next.js**, especially SSR vs CSR.  
+- Explored **Prisma** ORM and **NextAuth** integration.  
+- Refactored backend code from Node.js to Next.js API routes.  
+- Kept a minimal **Python microservice** for AI tool processing.  
+
+**Thoughts:**  
+Refactoring helped streamline the architecture and make the app more flexible. Clean code design not only improves scalability but also sharpens problem-solving skills — you learn to think structurally, not just syntactically.  
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)

@@ -38,3 +38,9 @@ Started building the backend API using Node.js and Express. Set up the project s
 - No coding today - I have a fever 🤒 so I'm taking a break.
 - Sometimes the best way to move forward is to stop and rest.
 - Tomorrow I'll be back to the challenge stronger than ever! 🚀 💪  
+
+
+### R1D10
+- After finishing the main tools for MediaKit, I focused on improving the foundation
+- I learned more about Next.js, Prisma, and NextAuth, and refactored my Node.js backend into a unified Next.js API.
+- Clean code = clearer mind = better problem solving 💡💪
