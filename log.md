@@ -147,3 +147,19 @@ It forced me to think about user flow, security, and session handling — a grea
 Super happy with today's progress!  
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 11: November 12, 2025
+
+**Today's Progress:**  
+- Finished full **code refactor**  
+- Migrated backend logic entirely into **Next.js** (no more separate Node.js server)  
+- Verified fullstack functionality — API routes, database, auth, and AI integrations  
+- Project is now running seamlessly under one stack  
+- Gained deeper knowledge about **Next.js fullstack capabilities**, **API routes**, and **maintainability**
+
+**Thoughts:**  
+This refactor was a turning point! It improved performance, simplified deployment, and made the project easier to scale and maintain.  
+I learned a lot about structure, abstraction, and fullstack integration — it feels awesome to see everything come together! 🙌  
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)

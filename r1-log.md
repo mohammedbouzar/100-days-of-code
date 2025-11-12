@@ -50,3 +50,6 @@ Started building the backend API using Node.js and Express. Set up the project s
 - Enhanced user experience with smooth sign-in/sign-up flows and session management.
 - It forced me to think about user flow, security, and session handling — a great exercise in problem-solving and backend logic.  
 - Super happy with today's progress!
+
+### R1D12
+- I completed the refactoring of the MediaKit project and migrated the entire backend to Next.js, making it a truly fullstack app! 🎉
