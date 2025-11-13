@@ -163,3 +163,16 @@ This refactor was a turning point! It improved performance, simplified deploymen
 I learned a lot about structure, abstraction, and fullstack integration — it feels awesome to see everything come together! 🙌  
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 12: November 13, 2025
+
+**Today's Progress:**  
+- Started Dockerizing the full project (Next.js fullstack + Python microservice)  
+- Set up production-ready Docker configurations  
+- Cleaned up environment configs and deployment structure
+
+**Thoughts:**  
+Moving into the deployment phase feels amazing. Making it easier to ship consistent builds and streamline development. Great step toward launching MediaKit!
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)

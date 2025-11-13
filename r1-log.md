@@ -53,3 +53,7 @@ Started building the backend API using Node.js and Express. Set up the project s
 
 ### R1D12
 - I completed the refactoring of the MediaKit project and migrated the entire backend to Next.js, making it a truly fullstack app! 🎉
+
+### R1D13
+- Started Dockerizing the full project (Next.js fullstack + Python microservice)  
+- Set up production-ready Docker configurations
