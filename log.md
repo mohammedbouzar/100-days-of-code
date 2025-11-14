@@ -176,3 +176,17 @@ I learned a lot about structure, abstraction, and fullstack integration — it f
 Moving into the deployment phase feels amazing. Making it easier to ship consistent builds and streamline development. Great step toward launching MediaKit!
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 13: November 14, 2025
+
+**Today's Progress:**  
+- Ensured all features are functional and stable  
+- Finalized project cleanup, structure, and Docker configuration  
+- Reached the end of this project's development phase
+
+**Thoughts:**  
+It feels great to reach this milestone. I learned a lot from this project about NextJS architecture, SSR/CSR , problem-solving, Dockerization and CI/CD .
+Stopping here for now and moving forward to new learning paths and projects!
+
+**Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)

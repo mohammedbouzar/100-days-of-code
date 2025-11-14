@@ -48,7 +48,7 @@ Started building the backend API using Node.js and Express. Set up the project s
 ### R1D11
 - Implemented **OAuth authentication** using **NextAuth.js** with providers like Google, Facebook, and X (Twitter).  
 - Enhanced user experience with smooth sign-in/sign-up flows and session management.
-- It forced me to think about user flow, security, and session handling — a great exercise in problem-solving and backend logic.  
+- It forced me to think about user flow, security, and session handling - a great exercise in problem-solving and backend logic.  
 - Super happy with today's progress!
 
 ### R1D12
@@ -57,3 +57,9 @@ Started building the backend API using Node.js and Express. Set up the project s
 ### R1D13
 - Started Dockerizing the full project (Next.js fullstack + Python microservice)  
 - Set up production-ready Docker configurations
+
+### R1D14
+- Complete the project's Dockerization
+- Created Docker Compose setup for easy local development and testing
+- Learned a lot about containerization and deployment best practices
+- Feeling more confident about deploying fullstack applications now!
