@@ -190,3 +190,17 @@ It feels great to reach this milestone. I learned a lot from this project about 
 Stopping here for now and moving forward to new learning paths and projects!
 
 **Link to work:** [MediaKit](https://mediakit.mohammed-bouzar.com)
+
+
+### Day 14: November 16, 2025
+
+**Today's Progress:**  
+Started a new project — a Quiz Generator web app built with Next.js, TailwindCSS, and daisyUI.  
+Set up the project scaffold, configured Tailwind + daisyUI, and created the initial UI structure (layout, navbar, theme setup).  
+Prepared the foundation for future features like AI-powered question generation and quiz exporting.
+
+**Thoughts:**  
+It feels great to begin a fresh project! Starting clean always brings motivation and clarity.  
+I’m excited about building something useful, fast, and fun — and the tech stack already feels smooth. Can't wait to add the first real features tomorrow.
+
+**Link to work:** *(coming soon)*
