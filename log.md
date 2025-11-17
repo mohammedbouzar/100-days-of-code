@@ -204,3 +204,12 @@ It feels great to begin a fresh project! Starting clean always brings motivation
 I’m excited about building something useful, fast, and fun — and the tech stack already feels smooth. Can't wait to add the first real features tomorrow.
 
 **Link to work:** *(coming soon)*
+
+
+### Day 15: November 17, 2025
+
+**Today's Progress:**  
+Built the Home page for the Quiz Generator project using Next.js + Tailwind + daisyUI.  
+
+**Thoughts:**  
+A solid visual start — now I can connect the "Create quiz" flow to the backend.
