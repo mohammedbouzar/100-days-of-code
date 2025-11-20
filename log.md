@@ -243,3 +243,17 @@ Seeing the project automatically deploy to my domain was incredibly satisfying.
 Super excited for what's coming next! 🚀
 
 **Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 18: November 20, 2026
+
+**Today's Progress:**  
+- Refactored major parts of the codebase to follow **clean architecture and best practices**.  
+- Unified the entire UI styling using **shared patterns and consistent DaisyUI components**.  
+- Improved readability, component structure, and overall maintainability.
+
+**Thoughts:**  
+Today was a cleanup day — and it felt great. The codebase is now much more organized, consistent, and future-proof.  
+These refactoring sessions always make everything feel lighter and more scalable. 🚀
+
+**Link to work:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
