@@ -296,3 +296,18 @@ It's great to have the full loop working — create, share, take, and score. Nex
 Authentication is now rock-solid! It feels great seeing the app move closer to production-level quality. The login flow is smooth, and OAuth integration makes signup effortless. Excited to build features that rely on user identity next.
 
 **Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 22 — November 25, 2025
+
+**Today's Progress:**
+- Built the **Quizzes Page** where users can:
+  - View quizzes they created.
+  - View quizzes they passed.
+- Added access control so only **authenticated users** can see their quizzes.
+- Improved session handling to ensure consistent user-specific data loading.
+
+**Thoughts:**
+Feels great seeing the app becoming more user-centric. Restricting access based on authentication made the experience much cleaner and more personal. The dashboard is starting to feel like a real platform!
+
+**Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)

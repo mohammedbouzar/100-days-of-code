@@ -28,3 +28,6 @@ It's great to have the full loop working - creation, sharing, participation, and
 
 ### R2D21
 Today, I implemented user authentication using NextAuth and Prisma. Users can now sign up and sign in securely.
+
+### R2D22
+Today, I worked on the quiz-taking interface. Users can now take quizzes and see their scores at the end.
