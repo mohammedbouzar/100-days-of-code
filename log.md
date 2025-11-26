@@ -311,3 +311,17 @@ Authentication is now rock-solid! It feels great seeing the app move closer to p
 Feels great seeing the app becoming more user-centric. Restricting access based on authentication made the experience much cleaner and more personal. The dashboard is starting to feel like a real platform!
 
 **Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
+
+
+### Day 23 — November 26, 2025
+
+**Today's Progress:**
+- Completed full CRUD operations for quizzes
+- Added visibility settings (public/private) + route protection
+- Improved mobile design
+- Added pagination for both quiz cards and quiz lists
+  
+**Thoughts:**
+I love how the platform is becoming smoother and more powerful day by day. Each improvement makes it feel more like a real, production-ready tool!
+
+**Live Project:**[Quiz Generator](https://quizgenerator.mohammed-bouzar.com)
