@@ -412,3 +412,17 @@ Spent some time planning and organizing the Habit Tracker project. Drawing diagr
 **Thoughts:**
 I'm excited to begin this new journey! Building a Habit Tracker with data visualization will not only help me improve my own habits, but also provide valuable insights to users. I look forward to diving myself in the development process and creating something impactful.
 
+
+### Day 31 — December 8, 2025
+
+**Today's Progress:**
+- Initialized the Next.js project with TypeScript, Tailwind CSS, and the App Router.
+- Added core dependencies: prisma, @prisma/client, next-auth and bcrypt.
+- Configured Prisma with a MySQL datasource and defined the User, Habit, HabitLog and Auth models in schema.prisma.
+- Created a singleton instance of the Prisma Client in prisma/client.ts to manage database connections efficiently.
+- Set up NextAuth.js with Credentials, Facebook, Google, X Twitter Providers and configured the authOptions.
+- Implemented the POST /api/auth/register route, including password hashing with bcrypt and user creation in the database via Prisma.
+
+**Thoughts:**
+Setting the basics for the Habit Tracker project feels great! Setting up the database models and authentication system is crucial for a solid foundation. I'm excited to start building out the core features next.
+
