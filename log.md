@@ -481,3 +481,15 @@ It's no longer just about what you've done, but understanding your patterns over
 
 **Thoughts:**
 The quality of a tracker depends on how trustworthy its foundation is. Today, user control and security were enhanced.
+
+
+### Day 37 — December 18, 2025
+
+**Today's Progress:**
+- Edit/Rename habits
+- Delete individual habits
+- Undo a habit log (mistakes happen!)
+- Dark Mode support 🌙
+
+**Thoughts:**
+Today I improved the core experience. Giving users the ability to correct mistakes and choose their own theme makes Habit Tracker feel more complete and considerate.
